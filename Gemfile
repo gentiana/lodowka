@@ -33,6 +33,7 @@ group :doc do
 end
 
 gem 'devise', github: 'plataformatec/devise'
+gem 'haml-rails'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.1.2'
